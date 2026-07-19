@@ -1,20 +1,20 @@
 # Expense Tracker
 
-A Python-based Expense Tracker application built using Python and SQLite database.
+A Python-based Expense Tracker application built using **Python** and **SQLite database** to manage daily expenses efficiently.
 
 ## Features
 
-- Add new expenses
-- View all expenses
-- Search expenses by title
-- Update existing expenses
-- Delete expenses
-- Calculate total expenses
+- ✅ Add new expenses
+- ✅ View all expenses
+- ✅ Search expenses by title
+- ✅ Update existing expenses
+- ✅ Delete expenses
+- ✅ Calculate total expenses
 
 ## Technologies Used
 
 - Python
-- SQLite
+- SQLite Database
 - Git & GitHub
 
 ## Project Structure
